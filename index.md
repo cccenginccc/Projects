@@ -5,3 +5,5 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-cccengi
 
 #Homework 1:
 You could access the code and the material from the following link: https://github.com/cccenginccc/trial/blob/main/IE-582-HW1.ipynb
+
+
